@@ -35,4 +35,3 @@ test
 
 ##### name: Stelios Pallis
 ##### email: stlsplls@gmail.com
-##### phone: +357 99748269
