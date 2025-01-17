@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPieceSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidatePieceMove King[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate validate on correct movement of king[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidatePieceMove King[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate invalidate on wrong movement of king[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidatePieceMove Bishop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate validate on correct movement of bishop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidatePieceMove Bishop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate invalid on wrong movement of bishop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidatePieceMove Rock[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate validate on correct movement of rock[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidatePieceMove Rock[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate invalid on wrong movement of rock[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidatePieceMove Knight[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate validate correct movement of knight[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidatePieceMove Knight[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate invalid on wrong movement of knight[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidatePieceMove Queen[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate validate on correct movement of queen[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidatePieceMove Queen[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate invalid on wrong movement of queen[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidatePieceMove Pawn[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate validate on correct movement of pawn[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidatePieceMove Pawn[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate invalid on wrong movement of pawn[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidateNoObstacleOnMove[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate valid positions on correct position[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mvalidateNoObstacleOnMove[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate invalid positions on wrong position[0m[0m

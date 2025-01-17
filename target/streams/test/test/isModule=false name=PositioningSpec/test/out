@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPositioningSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgeneratePositionsVertical[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate correct positions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgeneratePositionsHorizontal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate correct positions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgeneratePositionsDiagonal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should generate correct positions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtranslateToPositions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct result on correct data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtranslatePosition[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct translation of position[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32minBounds[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct if is out of bound[0m[0m

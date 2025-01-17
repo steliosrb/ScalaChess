@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mGameSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgameLoop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct valid moves when all moves are valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgameLoop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct valid moves when all moves are valid (checkmate)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgameLoop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct valid moves when not all moves are valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgameLoop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct valid moves when not all moves are valid (check)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgameLoop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct valid moves when not all moves are valid (check) suicide[0m[0m
